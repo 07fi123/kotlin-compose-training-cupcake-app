@@ -12,7 +12,6 @@ import androidx.compose.ui.test.performClick
 import com.example.cupcake.R
 import com.example.cupcake.data.DataSource
 import com.example.cupcake.data.OrderUiState
-import com.example.cupcake.ui.OrderSummaryScreen
 import com.example.cupcake.ui.SelectOptionScreen
 import com.example.cupcake.ui.StartOrderScreen
 import org.junit.Rule
